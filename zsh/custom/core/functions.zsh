@@ -39,4 +39,7 @@ function clean-tracks() {
 	rm -rf /mnt/c/Users/sunny/Documents/"Tencent Files"/3648579049
 	rm -rf /mnt/c/Users/sunny/Documents/"WeChat Files"/wxid_fp83u8nabg7i22/FileStorage/*
 	rm -rf /mnt/c/Users/sunny/Pictures/QQplayerPic/*
+	rm -rf /mnt/c/Users/sunny/AppData/Roaming/Listary/UserProfile/Cache/*
+	rm -rf /mnt/c/Users/sunny/AppData/Roaming/Listary/UserProfile/Settings/PathHistory.json
+	rm -rf /mnt/c/Users/sunny/AppData/Roaming/Listary/UserProfile/Settings/SearchHistory.json
 }
